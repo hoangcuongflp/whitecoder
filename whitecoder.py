@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 
 __script__  =  "whitecoder"
-__version__ =  "1.0-pre"
+__version__ =  "1.0"
 __author__  =  "Mohammed 'AnxiousNut' A. Mustafa"
 __email__   =  "<Anxious.Nut@Gmail.com>"
 __license__ =  "Creative Commons BY-NC-SA"
